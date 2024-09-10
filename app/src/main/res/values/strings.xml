@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Att</string>
+    <string name="gerar">Gerar</string>
+    <string name="numAle">Número Aleatório: </string>
+</resources>
